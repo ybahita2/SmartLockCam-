@@ -17,3 +17,7 @@ If you want to contribute to models, be sure to review the [contribution guideli
 ## License
 
 [Apache License 2.0](LICENSE)
+
+[Video Link]
+This is a link to the a Video Showing how it works 
+(https://drive.google.com/open?id=1YCcj1ZsCeDszo0KlHR4uz9E0vCYwxVtv)
