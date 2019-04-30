@@ -6,6 +6,7 @@ This is a link to the a Video Showing how it works
 
 ## PICTURE OF THE HARDAWARE 
 
+![IMG_2418](https://user-images.githubusercontent.com/50087815/56998178-581c2d80-6b78-11e9-97a9-728472fd6953.jpg)
 
 # TensorFlow Models
 
