@@ -4,6 +4,9 @@
 This is a link to the a Video Showing how it works 
 (https://drive.google.com/open?id=1YCcj1ZsCeDszo0KlHR4uz9E0vCYwxVtv)
 
+## PICTURE OF THE HARDAWARE 
+
+
 # TensorFlow Models
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
