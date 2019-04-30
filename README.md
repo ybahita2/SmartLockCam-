@@ -1,3 +1,9 @@
+## VIDEO DEMO
+
+[Video Link]
+This is a link to the a Video Showing how it works 
+(https://drive.google.com/open?id=1YCcj1ZsCeDszo0KlHR4uz9E0vCYwxVtv)
+
 # TensorFlow Models
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
@@ -18,6 +24,3 @@ If you want to contribute to models, be sure to review the [contribution guideli
 
 [Apache License 2.0](LICENSE)
 
-[Video Link]
-This is a link to the a Video Showing how it works 
-(https://drive.google.com/open?id=1YCcj1ZsCeDszo0KlHR4uz9E0vCYwxVtv)
